@@ -22,4 +22,4 @@ Fork this! motherforker!
 
 ### Copyright
 
-Copyright Notice
+Copyright Notice all reight reserved
