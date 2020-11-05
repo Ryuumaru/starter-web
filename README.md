@@ -8,8 +8,10 @@ This is Introcution
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos purpose
 
 ## Deployment
+
+Deploying drones
 
 ## How to contribute
