@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work m8.
 Find some place and add more text.
+And then some more
 
 ## Introdution
 
