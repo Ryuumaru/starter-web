@@ -16,6 +16,8 @@ Deploying drones
 
 ## How to contribute
 
+Fork this! motherforker!
+
 ### Copyright
 
 Copyright Notice
