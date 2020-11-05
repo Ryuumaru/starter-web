@@ -15,3 +15,7 @@ Sample website with plenty of files for demos purpose
 Deploying drones
 
 ## How to contribute
+
+### Copyright
+
+Copyright Notice
